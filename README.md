@@ -49,10 +49,10 @@
 
 <div class="my-projects" align="center">
 <a href="https://github.com/pedroaniche">
-<img alt="Hangman Game" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroaniche&repo=hangman-game&theme=codeSTACKr&hide_border=true&border_radius=10" height="180em"/>
-<img alt="Runaway Game" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroaniche&repo=runaway-game&theme=codeSTACKr&hide_border=true&border_radius=10" height="180em"/>
-<img alt="Pong Game" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroaniche&repo=pong-game&theme=codeSTACKr&hide_border=true&border_radius=10" height="180em"/>
-<img alt="Freeway Game" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroaniche&repo=freeway-game&theme=codeSTACKr&hide_border=true&border_radius=10" height="180em"/>
+<img alt="Hangman Game" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroaniche&repo=hangman-game&theme=codeSTACKr&hide_border=true&border_radius=10"/>
+<img alt="Runaway Game" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroaniche&repo=runaway-game&theme=codeSTACKr&hide_border=true&border_radius=10"/>
+<img alt="Pong Game" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroaniche&repo=pong-game&theme=codeSTACKr&hide_border=true&border_radius=10"/>
+<img alt="Freeway Game" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroaniche&repo=freeway-game&theme=codeSTACKr&hide_border=true&border_radius=10"/>
 </div><br>
 
 ## In my toolbox
