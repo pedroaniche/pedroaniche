@@ -75,4 +75,8 @@
 <a href="" title="Linux"><img alt="Linux" src="images/technologies/linux-original.svg" align="center" width="50" height="40"></a>
 </div><br>
 
-![Snake animation](https://github.com/pedroaniche/pedroaniche/blob/output/github-contribution-grid-snake.svg)
+## My commits
+
+<div class="animation" align="center">
+<img alt="Snake Eating my Commits" src="https://github.com/pedroaniche/pedroaniche/blob/output/github-contribution-grid-snake.svg" align="center">
+</div><br>
