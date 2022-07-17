@@ -33,7 +33,7 @@
 <a href="https://stackoverflow.com/users/18808969/pedro-aniche" title="Stack Overflow"><img alt="Stack Overflow" src="images/social-medias/stack-overflow-50.svg"  align="center" width="50" height="40"></a>
 <a href="https://medium.com/@pedroaniche" title="Medium"><img alt="Medium" src="images/social-medias/medium-50.svg" align="center" width="50" height="40"></a>
 <a href="https://www.facebook.com/pedroaniche/" title="Facebook"><img alt="Facebook" src="images/social-medias/facebook-50.svg" align="center" width="50" height="40"></a>
-<a href="https://medium.com/@pedroaniche" title="Telegram"><img alt="Telegram" src="images/social-medias/telegram-50.svg" align="center" width="50" height="40"></a>
+<a href="https://t.me/pedroaniche" title="Telegram"><img alt="Telegram" src="images/social-medias/telegram-50.svg" align="center" width="50" height="40"></a>
 <a href="my-resume" title="Resume"><img alt="Resume" src="images/social-medias/download-resume-50.svg" align="center" width="50" height="40"></a>
 </div><br>
 
@@ -41,8 +41,8 @@
 
 <div class="my-stats" align="center">
 <a href="https://github.com/pedroaniche">
-<img alt="GitHHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedroaniche&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&hide_border=true&border_radius=10"/>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaniche&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true&border_radius=10"/>
+<img alt="GitHHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedroaniche&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&hide_border=true&border_radius=10" height="180em"/>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaniche&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true&border_radius=10" height="180em"/>
 </div><br>
 
 ## Main projects
@@ -75,7 +75,7 @@
 <a href="" title="Linux"><img alt="Linux" src="images/technologies/linux-original.svg" align="center" width="50" height="40"></a>
 </div><br>
 
-## My commits
+## Nutrition with commits
 
 <div class="animation" align="center">
 <img alt="Snake Eating my Commits" src="https://github.com/pedroaniche/pedroaniche/blob/output/github-contribution-grid-snake.svg" align="center">
