@@ -41,8 +41,8 @@
 
 <div class="my-stats" align="center">
 <a href="https://github.com/pedroaniche">
-<img alt="GitHHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedroaniche&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&hide_border=true&border_radius=10" height="180em"/>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaniche&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true&border_radius=10" height="180em"/>
+<img alt="GitHHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedroaniche&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&hide_border=true&border_radius=10" height="170em"/>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaniche&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true&border_radius=10" height="170em"/>
 </div><br>
 
 ## Main projects
