@@ -1,4 +1,3 @@
-
 <div class="header" align="center">
 <img alt="Front Cover" src="images/cover.jpg" align="center">
 </div><br>
