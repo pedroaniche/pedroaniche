@@ -67,7 +67,7 @@
 <a href="" title="GiHub"><img alt="GitHub" src="images/technologies/github-original.svg" align="center" width="50" height="40"></a>
 <a href="" title="JetBrains"><img alt="JetBrains" src="images/technologies/jetbrains-original.svg" align="center" width="50" height="40"></a>
 <a href="" title="VS Code"><img alt="VS-Code" src="images/technologies/vscode-original.svg" align="center" width="50" height="40"></a>
-<a href="" title="Markdown"><img alt="Markdown" src="images/technologies/markdown-original.svg" align="center" width="50" height="40"></a>
+<!--<a href="" title="Markdown"><img alt="Markdown" src="images/technologies/markdown-original.svg" align="center" width="50" height="40"></a>-->
 <a href="" title="HTML5"><img alt="HTML" src="images/technologies/html5-plain.svg" align="center" width="50" height="40"></a>
 <a href="" title="CSS3"><img alt="CSS" src="images/technologies/css3-plain.svg" align="center" width="50" height="40"></a>
 <a href="" title="JavaScript"><img alt="JavaScript" src="images/technologies/javascript-original.svg" align="center" width="50" height="40"></a>
