@@ -57,9 +57,9 @@
 ## In my toolbox
 
 <div class="tools-and-technologies" align="left">
-<a href="" title="Java"><img alt="Java" src="images/technologies/java-original.svg" align="center" width="50" height="40"></a>
-<a href="" title="Python"><img alt="Python" src="images/technologies/python-original.svg" align="center" width="50" height="40"></a>
-<a href="" title="Spring"><img alt="Spring" src="images/technologies/spring-original.svg" align="center" width="50" height="40"></a>
+<a href="https://docs.oracle.com/en/java/" title="Java"><img alt="Java" src="images/technologies/java-original.svg" align="center" width="50" height="40"></a>
+<a href="https://www.python.org/doc/" title="Python"><img alt="Python" src="images/technologies/python-original.svg" align="center" width="50" height="40"></a>
+<a href="https://spring.io/projects" title="Spring"><img alt="Spring" src="images/technologies/spring-original.svg" align="center" width="50" height="40"></a>
 <a href="" title="SQL"><img alt="SQL" src="images/technologies/mysql-original.svg" align="center" width="50" height="40"></a>
 <a href="" title="AWS"><img alt="AWS" src="images/technologies/amazonwebservices-original.svg" align="center" width="50" height="40"></a>
 <a href="" title="Docker"><img alt="Docker" src="images/technologies/docker-original.svg" align="center" width="50" height="40"></a>
